@@ -9,6 +9,8 @@
        - Forum and blog posts.
        - Used in any static sized generators.      -->
 
+![layal-haidar](layal-haidar-pic.jpg)
+
 
 ## Layal Haidar
 ##### layal.haidar136@gmail.com
