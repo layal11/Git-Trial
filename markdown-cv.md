@@ -17,7 +17,7 @@
 ---
 
 
-**EXPERIENCE**
+**EXPERIENCE** January - July 2020
 
  Business Administrator at Matrix Data Network. Responsibilities:   
 - Creating a website on WordPress and updating its content.
@@ -28,17 +28,17 @@
 **COMPUTER SCIENCE SKILLS**
 - PHP, JS, SQL, OOP, C#, CSS, HTML
 
-**INTERNSHIP**
+**INTERNSHIP** 2019
 - Bank of Beirut and Arab Countries – BBAC.
 - Central Bank of Lebanon – BDL.
 
-**EDUCATION**
+**EDUCATION** 2017 – 2019
 - Bachelor of Science in Business Computer, Lebanese University.
 
-**ADDITIONAL SKILLS**
+**ADDITIONAL SKILLS** July – October 2019
 - Received 200 hours of intensive training on Business English, IT skills, professional and personal skills at Amideast.
 
-**SOCIAL ACTIVITIES**
+**SOCIAL ACTIVITIES** 2010 – 2017
 - Student at the Lebanese National Higher Conservatory of Music.
 - Participated in various concerts including Amchit festivals.
 
